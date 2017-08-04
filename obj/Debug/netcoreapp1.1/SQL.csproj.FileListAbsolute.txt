@@ -1,0 +1,8 @@
+/Users/brookkebede/Desktop/CSharp/SQL/bin/Debug/netcoreapp1.1/SQL.deps.json
+/Users/brookkebede/Desktop/CSharp/SQL/bin/Debug/netcoreapp1.1/SQL.runtimeconfig.json
+/Users/brookkebede/Desktop/CSharp/SQL/bin/Debug/netcoreapp1.1/SQL.runtimeconfig.dev.json
+/Users/brookkebede/Desktop/CSharp/SQL/obj/Debug/netcoreapp1.1/SQL.AssemblyInfo.cs
+/Users/brookkebede/Desktop/CSharp/SQL/bin/Debug/netcoreapp1.1/SQL.dll
+/Users/brookkebede/Desktop/CSharp/SQL/bin/Debug/netcoreapp1.1/SQL.pdb
+/Users/brookkebede/Desktop/CSharp/SQL/obj/Debug/netcoreapp1.1/SQL.dll
+/Users/brookkebede/Desktop/CSharp/SQL/obj/Debug/netcoreapp1.1/SQL.pdb
